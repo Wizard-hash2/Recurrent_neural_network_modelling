@@ -1,5 +1,5 @@
 # this repo covers
-
+i ADVISE YOU GO THROUGH FIRST: https://www.youtube.com/watch?v=AsNTP8Kwu80  AND https://www.youtube.com/watch?v=YCzL96nL7j0&pp=ugUEEgJlbg%3D%3D
       Introducing sequential data
       RNNs for modeling sequences
       Long short-term memory
@@ -52,3 +52,16 @@ Updating Weights Using BPTT
 ![alt text](Images/image-9.png)
 
 ​
+# Hidden recurrence versus output recurrence
+![alt text](Images/image10.png)
+
+On the difficulty of training recurrent neural networks by R. Pascanu, T. Mikolov, and Y. Bengio, 2012 
+(https://arxiv.org/pdf/1211.5063.pdf).
+
+# LSTM
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung and others, 2014 (https://arxiv.org/pdf/1412.3555v1.pdf).
+![alt text](image.png)
+![alt text](image-1.png)
+
+# Implementing RNNs for sequence modeling in PyTorchu
+
