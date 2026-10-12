@@ -61,11 +61,11 @@ On the difficulty of training recurrent neural networks by R. Pascanu, T. Mikolo
 
 # LSTM
 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung and others, 2014 (https://arxiv.org/pdf/1412.3555v1.pdf).
-![alt text](image001.png)
-![alt text](image-10.png)
+![alt text](Images/image001.png)
+![alt text](Images/image-10.png)
 
 # Implementing RNNs for sequence modeling in PyTorchu
-![alt text](image-20.png)
+![alt text](Images/image-20.png)
 
 in embedding it takes a vocabulary i.e 2 and then maps random vectors in any dimension then using backpropagation to calculate the overshooting like a graph of x,y,z, then using optimizer to update those overshooting and undershooting
 
