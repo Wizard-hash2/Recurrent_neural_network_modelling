@@ -69,3 +69,5 @@ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by 
 
 in embedding it takes a vocabulary i.e 2 and then maps random vectors in any dimension then using backpropagation to calculate the overshooting like a graph of x,y,z, then using optimizer to update those overshooting and undershooting
 
+# project 2:
+https://pdfs.semanticscholar.org/93c2/0e38c85b69fc2d2eb314b3c1217913f7db11.pdf
