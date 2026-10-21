@@ -71,3 +71,7 @@ in embedding it takes a vocabulary i.e 2 and then maps random vectors in any dim
 
 # project 2:
 https://pdfs.semanticscholar.org/93c2/0e38c85b69fc2d2eb314b3c1217913f7db11.pdf
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
